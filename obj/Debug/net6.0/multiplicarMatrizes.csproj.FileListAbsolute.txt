@@ -1,0 +1,15 @@
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.csproj.AssemblyReference.cache
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.AssemblyInfoInputs.cache
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.AssemblyInfo.cs
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.csproj.CoreCompileInputs.cache
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\net6.0\multiplicarMatrizes.exe
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\net6.0\multiplicarMatrizes.deps.json
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\net6.0\multiplicarMatrizes.runtimeconfig.json
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\net6.0\multiplicarMatrizes.dll
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\net6.0\multiplicarMatrizes.pdb
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.dll
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\refint\multiplicarMatrizes.dll
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.pdb
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\multiplicarMatrizes.genruntimeconfig.cache
+F:\Estudos\Estudos C#\Curso 01\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\net6.0\ref\multiplicarMatrizes.dll
